@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "bible",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "95205415-ff60-4efa-8150-811050502b70",
+      "database_name": "bible"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
